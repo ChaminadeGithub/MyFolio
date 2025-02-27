@@ -1,0 +1,72 @@
+/* .dark-mode {
+    background-color: #121212 !important;
+    color: white !important;
+}
+.dark-mode .navbar {
+    background-color: #1c1c1c !important;
+}
+.dark-mode a {
+    color: white !important;
+}
+.dark-mode .btn-light {
+    background-color: white !important;
+    color: black !important;
+} */
+
+
+.dark-mode {
+    background-color: #121212 !important;
+    color: white !important;
+}
+
+/* Navbar */
+.dark-mode .navbar {
+    background-color: #1c1c1c !important;
+    border-bottom: 1px solid #333;
+}
+
+/* Liens */
+.dark-mode a {
+    color: #ddd !important;
+}
+.dark-mode a:hover {
+    color: #fff !important;
+}
+
+/* Boutons */
+.dark-mode .btn {
+    background-color: #333 !important;
+    color: white !important;
+    border: 1px solid #555;
+}
+.dark-mode .btn:hover {
+    background-color: #555 !important;
+}
+
+/* Sections */
+.dark-mode section {
+    background-color: #1a1a1a !important;
+}
+
+/* Textes clairs sur fond blanc */
+.dark-mode .text-dark {
+    color: white !important;
+}
+.dark-mode .text-light {
+    color: #ddd !important;
+}
+
+/* Portfolio et images */
+.dark-mode .img-wrapper {
+    background-color: #222 !important;
+    border: 1px solid #444;
+}
+
+/* Corriger les fonds blancs et textes blancs */
+.dark-mode .dark-mode-bg {
+    background-color: #1a1a1a !important;
+}
+
+.dark-mode .dark-mode-text {
+    color: #ddd !important;
+}
